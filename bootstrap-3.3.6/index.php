@@ -9,7 +9,7 @@
 
 <body>
 The content of the document......
-<a href = "page1.html"></a>
+<a href = "page1.html"> Page1</a>
 </body>
 
 </html>
