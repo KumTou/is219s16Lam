@@ -4,7 +4,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Title of the document</title>
+ <title>Title of the document</title>
+ <link href = "css/bootstrap.css" rel = "stylesheet">
 </head>
 
 <body>
